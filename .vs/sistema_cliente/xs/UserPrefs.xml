@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C80D4B6E-1005-4561-AC8A-167728012A9E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sistema_cliente/Program.cs">
+    <Files>
+      <File FileName="sistema_cliente/Program.cs" Line="9" Column="76" />
+      <File FileName="sistema_cliente/Bairro.cs" Line="5" Column="6" />
+      <File FileName="sistema_cliente/Cliente.cs" Line="6" Column="9" />
+      <File FileName="sistema_cliente/ClienteFisico.cs" Line="6" Column="26" />
+      <File FileName="sistema_cliente/ClienteJuridico.cs" Line="6" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.sistema__cliente PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

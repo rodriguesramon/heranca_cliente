@@ -1,0 +1,11 @@
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/bin/Debug/netcoreapp2.1/sistema_cliente.deps.json
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/bin/Debug/netcoreapp2.1/sistema_cliente.runtimeconfig.json
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/bin/Debug/netcoreapp2.1/sistema_cliente.runtimeconfig.dev.json
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/bin/Debug/netcoreapp2.1/sistema_cliente.dll
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/bin/Debug/netcoreapp2.1/sistema_cliente.pdb
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/obj/Debug/netcoreapp2.1/sistema_cliente.csprojResolveAssemblyReference.cache
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/obj/Debug/netcoreapp2.1/sistema_cliente.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/obj/Debug/netcoreapp2.1/sistema_cliente.AssemblyInfoInputs.cache
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/obj/Debug/netcoreapp2.1/sistema_cliente.AssemblyInfo.cs
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/obj/Debug/netcoreapp2.1/sistema_cliente.dll
+/Users/aluno/Projects/sistema_cliente/sistema_cliente/obj/Debug/netcoreapp2.1/sistema_cliente.pdb
