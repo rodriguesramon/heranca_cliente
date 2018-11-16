@@ -8,9 +8,8 @@ namespace sistema_cliente
         {           
             Bairro bairro = new Bairro();
 
-            Console.WriteLine("Informe a opcao: ");
+            Console.WriteLine("Informe a opcao que deseja: ");
             Console.Write("1 - PF | 2 - PJ :");
-
 
             int tipo = Convert.ToInt32(Console.ReadLine());
             Console.Clear();
